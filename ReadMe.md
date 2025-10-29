@@ -90,10 +90,10 @@ Both datasets were assessed and cleaned according to seven key data quality dime
 
 **View Files**  
 - [EV Data Cleaning Script (R)](Scripts/2_EV_Data_Cleaning.R)  
-- [EV Raw Data (View on Google Sheet)](https://docs.google.com/spreadsheets/d/YOUR_LINK_HERE/edit?usp=sharing)  
+- [EV Raw Data (View on Google Sheet)](https://docs.google.com/spreadsheets/d/15xLDvIV2umCENDPPz9xq2_-1HC8duAfIflqRc0Scdf8/edit?usp=sharing)  
 - [EV Raw Data (Download CSV)](https://github.com/EMMANUELWB/CodeAlpha__EV-Infrastructure-vs.-Adoption-A-Data-Driven-Exploration/raw/main/Data/1_Electric_Vehicle_Population_Data.csv)
 
-- [EV Cleaned Data (View on Google Sheet)](https://docs.google.com/spreadsheets/d/YOUR_LINK_HERE/edit?usp=sharing)  
+- [EV Cleaned Data (View on Google Sheet)](https://docs.google.com/spreadsheets/d/1bwQfKh6nN8H2uhL8yTBAc7N9ehSsqUqA-jrKhZ_N8Ug/edit?usp=sharing)  
 - [EV Cleaned Data (Download CSV)](https://github.com/EMMANUELWB/CodeAlpha__EV-Infrastructure-vs.-Adoption-A-Data-Driven-Exploration/raw/main/Data/2_Electric_Vehicle_Population_Clean.csv)
 
 - [EV Cleaning Log (Download)](https://github.com/EMMANUELWB/CODEALPHA_ToolOverloadAnalytics/raw/main/Data/3_EV_Data_Cleaning_Log.csv)  
@@ -108,10 +108,10 @@ Both datasets were assessed and cleaned according to seven key data quality dime
 
 **View Files**  
 - [Alt Fuel Data Cleaning Script (R)](Scripts/3_Alt_Data_Cleaning_With_Log.R)  
-- [Alt Fuel Raw Data (View on Google Sheet)](https://docs.google.com/spreadsheets/d/YOUR_LINK_HERE/edit?usp=sharing)  
+- [Alt Fuel Raw Data (View on Google Sheet)](https://docs.google.com/spreadsheets/d/1SWtprR-gmStlxHOpMNBKoIAmqt4XxffBK6-z_Inw3ps/edit?usp=sharing)  
 - [Alt Fuel Raw Data (Download CSV)](https://github.com/EMMANUELWB/CodeAlpha__EV-Infrastructure-vs.-Adoption-A-Data-Driven-Exploration/raw/main/Data/4_Alternative_Fuel_Stations.csv)
 
-- [Alt Fuel Cleaned Data (View on Google Sheet)](https://docs.google.com/spreadsheets/d/YOUR_LINK_HERE/edit?usp=sharing)  
+- [Alt Fuel Cleaned Data (View on Google Sheet)](https://docs.google.com/spreadsheets/d/16t-sdNCTCgVMKvryb5wgMxCNUEVbLOUZdrLqyusJH7k/edit?usp=sharing)  
 - [Alt Fuel Cleaned Data (Download CSV)](https://github.com/EMMANUELWB/CodeAlpha__EV-Infrastructure-vs.-Adoption-A-Data-Driven-Exploration/raw/main/Data/5_Alternative_Fuel_Stations_Clean.csv)
 
 - [Alt Fuel Cleaning Log (Download)](https://github.com/EMMANUELWB/CODEALPHA_ToolOverloadAnalytics/raw/main/Data/6_Alt_Data_Cleaning_Log.csv) 
