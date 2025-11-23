@@ -163,9 +163,9 @@ The following figures illustrate key insights from the EV analyses conducted usi
 **P-value:** < 0.001  
 
 **Interpretation:**  
-This model predicts a steady increase of ~2,203 EVs per year.
-Forecast for 2025–2027 suggests adoption will continue to grow, reaching roughly 32,000 EVs by 2027.
-Since the R-value is 0.89, this model explains a large portion of the trend, so the forecast is reasonably reliable for short-term projections.
+- Strong positive correlation between year and EV adoption.  
+- EV adoption grows ~2,203 vehicles per year.  
+- Forecast suggests adoption could reach ~32,000 EVs by 2027.
   
    ![EV Adoption Trend](https://github.com/EMMANUELWB/CodeAlpha__EV-Infrastructure-vs.-Adoption-A-Data-Driven-Exploration/blob/main/Reports/EV_Adoption_Trend_with_Regression.png)
 
@@ -178,9 +178,9 @@ R-value: 0.72
 P-value: 0.00015 
 
 **Interpretation:** 
-The average EV range is increasing ~7.44 km per year.
-The R-value of 0.72 indicates a strong positive correlation.
-P-value (0.00015) confirms the increase is statistically significant.
+- Average EV range increases ~7.44 km per year.  
+- Strong positive correlation; statistically significant.  
+- Forecast suggests average range ~253 km by 2027.
 
 Forecast suggests that by 2027, the average EV range could reach ~253 km, continuing the upward trend.
    ![EV Range Trend](https://github.com/EMMANUELWB/CodeAlpha__EV-Infrastructure-vs.-Adoption-A-Data-Driven-Exploration/blob/main/Reports/EV_Range_Trend_with_Regression.png)
