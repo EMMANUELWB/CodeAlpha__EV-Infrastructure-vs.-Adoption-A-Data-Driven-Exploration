@@ -165,7 +165,9 @@ The following figures illustrate key insights from the EV analyses conducted usi
 **Interpretation:**  
 The analysis shows a strong positive relationship between year and total EV adoption (R = 0.89), indicating that the number of EVs grows substantially over time. The P-value (< 0.001) confirms the trend is statistically significant.  
 
-On average, total EV adoption increases by approximately **2,203 vehicles per year**. The key takeaway is the upward slope, highlighting consistent growth in EV adoption over the years.
+The model predicts a steady increase of ~2,203 EVs per year.
+Forecast for 2025–2027 suggests adoption will continue to grow, reaching roughly 32,000 EVs by 2027.
+Since the R-value is 0.89, this model explains a large portion of the trend, so the forecast is reasonably reliable for short-term projections.
   
    ![EV Adoption Trend](https://github.com/EMMANUELWB/CodeAlpha__EV-Infrastructure-vs.-Adoption-A-Data-Driven-Exploration/blob/main/Reports/EV_Adoption_Trend_with_Regression.png)
 
