@@ -20,7 +20,7 @@ The study focuses on how EV adoption evolved over time, which manufacturers and 
 ---
 
 ## Data Sources
-**Electric Vehicle Population Data** — from U.S. government open data repositories.  
+**Electric Vehicle Population Data** - from U.S. government open data repositories.  
 
 ---
 
